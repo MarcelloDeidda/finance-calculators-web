@@ -17,13 +17,23 @@ Finance Calculators Web
 
 ## 2.Description:
 
-This webpage implement various formulas to calculate:
+This webpage implements various formulas to calculate:
 
 - Mortgage Repayments
 
 - Simple interest
 
 - Compound interest
+
+The project consists of an html file, containing the structure of the page, a css file, containing custom styles, and a js file, where the calculations are performed and then rendered through DOM manipulation. The page is built with Bootstrap v5.2.
+
+The formulas I used are the following:
+
+- Mortgage:  x = (i * P)/(1 - (1 + i) ^ (-n))
+
+- Simple Interest: A = P(1 + r * t)
+
+- Compound Interest:  A = P(1 + r) ^ t
 
 
 ## 3.Contents:
@@ -33,6 +43,8 @@ This webpage implement various formulas to calculate:
 - styles.css
 
 - app.js
+
+- calculator.png
 
 
 ## 4.Webpage address:
