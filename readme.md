@@ -42,7 +42,8 @@ This webpage implement various formulas to calculate:
 
 ## 5.Previews:
 - Mortgage:
-![mortgage](https://user-images.githubusercontent.com/76016486/204314176-bf7c85b3-f7a0-4663-aafa-f3f5b05b8831.png)
+![mortgage](https://user-images.githubusercontent.com/76016486/205913919-4ec9ae5f-f7d0-4280-b5e0-a8ad695bfacb.jpg)
 
 - Interest:
-![interest](https://user-images.githubusercontent.com/76016486/204314296-8da25143-ad72-44c4-a2f5-6c166b7b7e99.png)
+![interest](https://user-images.githubusercontent.com/76016486/205913975-ae4d7521-462d-4f6f-a414-569be33c2ecc.jpg)
+
