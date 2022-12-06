@@ -49,7 +49,7 @@ The formulas I used are the following:
 
 ## 4.Webpage address:
 
-[Finance Calculators Web](https://marcellodeidda-financecalculator.netlify.app/)
+[Finance Calculators Web](https://marcellodeidda-financecalculators.netlify.app/)
 
 
 ## 5.Previews:
